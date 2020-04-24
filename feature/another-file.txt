@@ -5,3 +5,5 @@ this file was modified locally
 this file was added in feature-2 branch
 
 another modification in feature-2 branch
+
+another edit in feature-2 branch 
